@@ -14,11 +14,11 @@ checkpoints/
 predict/
 results/
 model/
-.pth
-.png
-.jpg
-.Python
-.mat
+*.pth
+*.png
+*.jpg
+*.Python
+*.mat
 build/
 develop-eggs/
 dist/
