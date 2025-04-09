@@ -1,0 +1,8 @@
+HED-BSDS:
+  root: "/root/workspace/repositories/RCF_Pytorch_Updated/data/HED-BSDS"
+  training:
+    split_folder: "train"
+    train_pair_list: "train_pair.lst"
+  testing:
+    split_folder: "test"
+    test_list: "test.lst"
